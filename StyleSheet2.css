@@ -1,0 +1,50 @@
+﻿body {
+    background-image: url('code-matrix.gif');
+    background-color: #000;
+    background-repeat: repeat;
+    background-size: cover;
+    margin: 10%;
+}
+div {
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-bottom: 10%;
+}
+span{
+    margin: 30px;
+}
+.auto-style4 {
+    text-align: center;
+    margin-right: 25px;
+    margin-left: 25px;
+}
+.auto-style5 {
+    margin-block: 10px;
+}
+
+.auto-style1 {
+    text-align: left;
+}
+.default-row-spacer {
+    margin-top: 20px;
+}
+.default-row-spacer2 {
+    margin-top: 20px;
+    text-align:left;
+    margin-left: 15px;
+}
+
+
+#form1 {
+    margin-left: 37%;
+    margin-right: 37%;
+    background-color: lightgrey;
+    height: auto;
+    border: 15px solid mediumseagreen;
+    border-top-style: ridge;
+    align-content: center;
+    text-align: center;
+    position: center;
+    width: 30%;
+}
+
